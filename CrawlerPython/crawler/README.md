@@ -1,1 +1,0 @@
-einfacher Crawler in Python für HTML/CSS Elemente
