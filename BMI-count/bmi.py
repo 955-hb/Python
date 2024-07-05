@@ -9,8 +9,8 @@ age = input('Wie alt bist du?')
 height_str = input('Wie groß bist du? (in m)')
 weight_str = input('Wie schwer bist du? (in kg)')
 
-height = float(height_str)
-weight = float(weight_str)
+height = float(height_str.replace(",","."))
+weight = float(weight_str.replace(",","."))
 
 result_bmi = weight / height **2
 
