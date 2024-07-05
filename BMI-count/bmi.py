@@ -1,4 +1,4 @@
-# Schreibe ein rogramm welches die Größe und Gewicht einer Person (mittels input) abfragt
+# Schreibe ein Programm welches die Größe und Gewicht einer Person (mittels input) abfragt
 # und auf dieser Basis den BMI berechnet und ausgibt.
 # Formel = (Gewicht in kg) / (Körpergröße im m)^2
 
